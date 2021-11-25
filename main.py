@@ -56,6 +56,3 @@ elif users_choice == 2 and computer_choice == 0:
   print("Computer wins.")
 elif users_choice == 2 and computer_choice == 1:
   print("User wins.")
-
-# for i in range(len(game_images) - 1):
-#   print(game_images[4])
